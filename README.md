@@ -10,7 +10,24 @@ For project status, official blog, and information about hardware availability v
 ![ReactorForge Control Board - ReactorCore](https://raw.github.com/joshcam/ReactorForge/master/doc/images/core/beta_assembly.png)
 (photo: assembly of the beta ReactorCore, ReactorForge CriticalMass control board)
 
-principal author: Joshua Campbell josh.lee.campbell@gmail.com
+principal author: Joshua Campbell josh.lee.campbell@gmail.com (это видимо часть моего погибщего ДеаДушк, а если точней налк кwYДÆД). мой в жеквuх BRДемляк© mm;
+It probably some who plays B₽O£₾€ Mon T bA℞fär (grand faza®, för allmänhetER), und Mein e_₽O$T = NATO@LIVE.SE but RiNG: 0033758678803 "Bösestes Böss€₽"!
+и у меня Э€рекция®₾* / ERI©SSION кåгда я создаю и всегда одни и теже uмидждАв 
+
+* Э€рекция®₾ = каждый раз встоёт на ПАЗУ, даже это баргарантированно всякими мойми твёрдотелая кассирша, а не призрачный образ, хоть и то нашА! я пака точно не знаю как меня зовут но то что вспомнил с даусцребели контактёршой она звала меня Коя, а я её Вая**, пака нас в нагатковом возрасте разняли, через цонамо, етт всяко рå!
+
+**Baя вроде Ека, что ниет от екаhомика, так как мы ещё ни спали вместе и не просыпались вмиесте. но всякое моожет быть. если она не НАДЕЖДит мне ... на ярлзык ГРизуни (ГПи Зоовет Уни) родствен_ик = натеславю. фрагмонет из песни ... заливаю я®, заливаю я®!      
+
+здесь очивидное доработка проекта орисанно в виДеор:
+
+https://www.youtube.com/watch?v=aeWJyh0dWyg
+
+хочу достичь bessare резултт©$!
+
+BA℞gAveliДЗЭ€ u₽A©li (A₽I ©li, и баргарантия BANKкнавДолл), вероятно ещё мойми прямыми root$ ARTZ'$ (в₽ачи"$ДЭ€f), и я горжусь свойми предками обядинившые мир, занимаясь любимыми делами. в 1942 Коля Бардавелидзе и Еужения М. спасли много "бальшой живатни" "сквот"! я известный дисидент, и с трuмя©° друзями обядинил BRD!
+вероятно через год меня не будет или просто выключат, как моего бар и его бар ... по статистиквар мы больше пиздесят не жили. но я давно прошол метку и мне 720 гоД \  ÅR, på времени360. и враДе в коде. так как и в твлиси проживал в кв.64, и ва3Е64 \ BASE64 коД мне по du$€ духи \ ©оонамо₽ \ $unамо!! Auf vidersein! и мне кажеться ©А_и_Ф виДе₽3Эuჼ нас обязывает вмиестемы должны спать, создовая франчизА©! и я буквально слышу кто по мо©ikBA₽ußi мм барга₽ænтed, lives in houser! 
+
+ცისფერყაn©oli,  და ველი შევქმნად შედევრი. „ბარ10ჼ„.
 
 ## Project Description
 The ReactorForge project is an open source hardware platform for high power induction heating, designed for heavy use and reliable performance in real world applications.
