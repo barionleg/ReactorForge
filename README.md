@@ -20,9 +20,11 @@ It probably some who plays B₽O£₾€ Mon T bA℞fär (grand faza®, för all
 
 здесь очивидное доработка проекта орисанно в виДеор:
 
+www.youtube.com/watch?v=aeWJyh0dWyg
+
 https://youtu.be/aeWJyh0dWyg?t=459
 
-[![CriticalMass Test Run](http://img.youtu.be/aeWJyh0dWyg?t=459)](https://www.youtube.com/watch?v=aeWJyh0dWyg)
+[![CriticalMass Test Run](http://img.youtu.be/aeWJyh0dWyg?t=459)](https://www.youtube.com/aeWJyh0dWyg?t=459)
 
 хочу достичь bessare резултт©$!
 
