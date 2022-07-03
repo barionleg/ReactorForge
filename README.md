@@ -18,11 +18,9 @@ It probably some who plays B₽O£₾€ Mon T bA℞fär (grand faza®, för all
 
 **Baя вроде Ека, что ниет от екаhомика, так как мы ещё ни спали вместе и не просыпались вмиесте. но всякое моожет быть. если она не НАДЕЖДит мне ... на ярлзык ГРизуни (ГПи Зоовет Уни) родствен_ик = натеславю. фрагмонет из песни ... заливаю я®, заливаю я®!      
 
-здесь очивидное доработка проекта орисанно в виДеор:
+здесь очивидное доработка проекта орисанно в виДеор & im mittЭ€იBM₾ headBæn, bzz: ბოლომდე ღოგოღ გითხღად, ჯეღ ჩიმი სათრთოს შედევღი ჩაიხატოს ...
 
-www.youtube.com/watch?v=aeWJyh0dWyg
-
-https://youtu.be/aeWJyh0dWyg?t=459
+https://www.youtube.com/watch?v=txbqg_bOjNY&t=0s
 
 [![Critical Pressure Test Run](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/%C3%96Max.png)](http://www.youtube.com/watch?v=aeWJyh0dWyg)
 
