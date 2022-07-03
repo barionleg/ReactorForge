@@ -24,7 +24,7 @@ www.youtube.com/watch?v=aeWJyh0dWyg
 
 https://youtu.be/aeWJyh0dWyg?t=459
 
-[![CriticalMass Test Run](http://img.youtube.com/vi/aeWJyh0dWyg0.jpg)](http://www.youtube.com/watch?v=aeWJyh0dWyg)
+[![Critical Pressure Test Run](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/%C3%96Max.png)](http://www.youtube.com/watch?v=aeWJyh0dWyg)
 
 хочу достичь bessare резултт©$!
 
