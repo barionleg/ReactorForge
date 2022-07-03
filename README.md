@@ -20,6 +20,8 @@ It probably some who plays B₽O£₾€ Mon T bA℞fär (grand faza®, för all
 
 здесь очивидное доработка проекта орисанно в виДеор & im mittЭ€იBM₾ headBæn, bzz: ბოლომდე ღოგოღ გითხღად, ჯეღ ჩიმი სათრთოს შედევღი ჩაიხატოს ...
 
+https://github.com/barionleg/bAReactorForge/blob/master/doc/375308©ოფლამაბლე.pdf
+
 https://www.youtube.com/watch?v=txbqg_bOjNY&t=0s
 
 [![Critical Pressure Test Run](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/%C3%96Max.png)](http://www.youtube.com/watch?v=aeWJyh0dWyg)
