@@ -24,7 +24,7 @@ www.youtube.com/watch?v=aeWJyh0dWyg
 
 https://youtu.be/aeWJyh0dWyg?t=459
 
-[![CriticalMass Test Run](http://img.youtube.com/aeWJyh0dWyg?t=459)](https://www.youtube.com/aeWJyh0dWyg?t=459)
+[![CriticalMass Test Run](http://img.www.youtube.com/watch?v=aeWJyh0dWyg)](https://www.www.youtube.com/watch?v=aeWJyh0dWyg)
 
 хочу достичь bessare резултт©$!
 
