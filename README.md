@@ -35,7 +35,7 @@ BA℞gAveliДЗЭ€ u₽A©li (A₽I ©li, и баргарантия BANKкна
 
 This I wrote 2 days ago, after working on bit satelit förbättrings mjukvaran och tadah, but jag s©haffer dass im minijatur®
 
-[![©lisMA](https://ru.frwiki.wiki/wiki/Torche_%C3%A0_plasma_(astronautique))
+[![©lisMA](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/AEDC_H3_Arc_Heater.jpg)](https://ru.frwiki.wiki/wiki/Torche_%C3%A0_plasma_(astronautique))
 
 [![ი©A₽µ ბარgonaBTi©](https://fr.wikipedia.org/wiki/Fichier:PHEDRA_BLUNT_ICARE_CNRS.jpg)
 
