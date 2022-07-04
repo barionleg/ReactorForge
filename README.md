@@ -37,7 +37,7 @@ This I wrote 2 days ago, after working on bit satelit förbättrings mjukvaran o
 
 [![©lisMA](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/AEDC_H3_Arc_Heater.jpg)](https://ru.frwiki.wiki/wiki/Torche_%C3%A0_plasma_(astronautique))
 
-[![ი©A₽µ ბარgonaBTi©](https://fr.wikipedia.org/wiki/Fichier:PHEDRA_BLUNT_ICARE_CNRS.jpg)
+[![ი©A₽µ ბარgonaBTi©](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/PHEDRA_BLUNT_ICARE_CNRS.jpg)](https://fr.wikipedia.org/wiki/Fichier:PHEDRA_BLUNT_ICARE_CNRS.jpg)
 
 <div class="NavFrame demonstration" style="border: thin solid #aaaaaa; margin:1em 2em; padding: 0 1em; font-size:100%; text-align:justify; overflow:hidden;">
 <div class="NavHead" style="background-color:transparent; padding:0;"><strong>Демонстрация</strong></div>
