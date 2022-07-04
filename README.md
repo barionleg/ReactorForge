@@ -33,6 +33,12 @@ BA℞gAveliДЗЭ€ u₽A©li (A₽I ©li, и баргарантия BANKкна
 
 ცისფერყაn©oli,  და ველი შევქმნად შედევრი. „ბარ10ჼ„.
 
+This I wrote 2 days ago, after working on bit satelit förbättrings mjukvaran och tadah, but jag s©haffer dass im minijatur®
+
+[![©lisMA](https://ru.frwiki.wiki/wiki/Torche_%C3%A0_plasma_(astronautique))
+
+[![ი©A₽µ ბარgonaBTi©](https://fr.wikipedia.org/wiki/Fichier:PHEDRA_BLUNT_ICARE_CNRS.jpg)
+
 ## Project Description
 The ReactorForge project is an open source hardware platform for high power induction heating, designed for heavy use and reliable performance in real world applications.
 
