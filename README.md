@@ -39,6 +39,33 @@ This I wrote 2 days ago, after working on bit satelit förbättrings mjukvaran o
 
 [![ი©A₽µ ბარgonaBTi©](https://fr.wikipedia.org/wiki/Fichier:PHEDRA_BLUNT_ICARE_CNRS.jpg)
 
+<div class="NavFrame demonstration" style="border: thin solid #aaaaaa; margin:1em 2em; padding: 0 1em; font-size:100%; text-align:justify; overflow:hidden;">
+<div class="NavHead" style="background-color:transparent; padding:0;"><strong>Демонстрация</strong></div>
+<div class="NavContent" style="padding-bottom:0.4em">
+<p>Пусть W - мощность, d - расход газа, h - энтальпия, r - эффективность, имеем
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle rW=hd}"><semantics><mrow class="MJX-TeXAtom-ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>р</mi><mi>W</mi><mo>знак равно</mo><mi>час</mi><mi>d</mi></mstyle></mrow><annotation encoding="application/x-tex">{\ displaystyle rW = hd}</annotation></semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/737739bd6cfb1f98a2e84c7889752bd0bb861a90" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:9.137ex; height:2.176ex;" alt="{\ displaystyle rW = hd}"></span></dd></dl></dd></dl>
+<p>Уравнения, относящиеся к изоэнтропическим потокам, позволяют оценить расход в горловине сопла.
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle d=\rho aS}"><semantics><mrow class="MJX-TeXAtom-ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mo>знак равно</mo><mi>ρ</mi><mi>в</mi><mi>S</mi></mstyle></mrow><annotation encoding="application/x-tex">{\ Displaystyle d = \ rho AS}</annotation></semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31f734f584cb8454f2be369b96bce595e4c3b602" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:8.245ex; height:2.676ex;" alt="{\ Displaystyle d = \ rho AS}"></span></dd></dl></dd></dl>
+<p>где ρ - плотность, a - скорость звука, значения в шейке области S.
+</p>
+<p>Зная уравнение состояния газа, мы можем, таким образом, выразить энтальпию как функцию создаваемого давления и расхода (в данном примере для воздуха)
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle h=4{,}55\times 10^{-2}\left({\frac {d}{Sp}}\right)^{-2{,}519}}"><semantics><mrow class="MJX-TeXAtom-ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>час</mi><mo>знак равно</mo><mn>4</mn><mrow class="MJX-TeXAtom-ORD"><mo>,</mo></mrow><mn>55</mn><mo>×</mo><msup><mn>10</mn><mrow class="MJX-TeXAtom-ORD"><mo>-</mo><mn>2</mn></mrow></msup><msup><mrow><mo>(</mo><mrow class="MJX-TeXAtom-ORD"><mfrac><mi>d</mi><mrow><mi>S</mi><mi>п</mi></mrow></mfrac></mrow><mo>)</mo></mrow><mrow class="MJX-TeXAtom-ORD"><mo>-</mo><mn>2,519</mn></mrow></msup></mstyle></mrow><annotation encoding="application/x-tex">{\ displaystyle h = 4 {,} 55 \ times 10 ^ {- 2} \ left ({\ frac {d} {Sp}} \ right) ^ {- 2 {,} 519}}</annotation></semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8ca848c3920962e6e1e732bad973472e268f9d3f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.505ex; width:28.252ex; height:6.509ex;" alt="{\ displaystyle h = 4 {,} 55 \ times 10 ^ {- 2} \ left ({\ frac {d} {Sp}} \ right) ^ {- 2 {,} 519}}"></span></dd></dl></dd></dl>
+<p>из предыдущих уравнений выводим
+</p>
+<dl><dd><dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML" alttext="{\displaystyle Sh^{0{,}603}=C^{ste}{\frac {rW}{p^{\frac {1}{2}}}}}"><semantics><mrow class="MJX-TeXAtom-ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi><msup><mi>час</mi><mrow class="MJX-TeXAtom-ORD"><mn>0,603</mn></mrow></msup><mo>знак равно</mo><msup><mi>ПРОТИВ</mi><mrow class="MJX-TeXAtom-ORD"><mi>s</mi><mi>т</mi><mi>е</mi></mrow></msup><mrow class="MJX-TeXAtom-ORD"><mfrac><mrow><mi>р</mi><mi>W</mi></mrow><msup><mi>п</mi><mrow class="MJX-TeXAtom-ORD"><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow></msup></mfrac></mrow></mstyle></mrow><annotation encoding="application/x-tex">{\ displaystyle Sh ^ {0 {,} 603} = C ^ {ste} {\ frac {rW} {p ^ {\ frac {1} {2}}}}}</annotation></semantics></math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec8ccdb19ea5fbebcfaa6330db0db5bbdef4975f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.671ex; width:18.395ex; height:7.009ex;" alt="{\ displaystyle Sh ^ {0 {,} 603} = C ^ {ste} {\ frac {rW} {p ^ {\ frac {1} {2}}}}}"></span></dd></dl></dd></dl>
+<p>Это уравнение показывает, что
+</p>
+<ul>
+<li>диаметр пробирки Φ ограничен выходным отверстием сопла (S ~ Φ <sup>2</sup> ): если размер образца увеличивается вдвое при заданной мощности, энтальпия уменьшается в 10 раз,</li>
+<li>Φ пропорционален W <sup>1/2</sup> &nbsp;: требуемая мощность очень быстро увеличивается с желаемым размером образца.</li>
+</ul>
+</div>
+<div style="clear:both;"></div>
+</div>
+
 ## Project Description
 The ReactorForge project is an open source hardware platform for high power induction heating, designed for heavy use and reliable performance in real world applications.
 
