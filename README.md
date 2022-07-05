@@ -73,55 +73,7 @@ Dygnet s©enare:
 
 plötzligt:
 
-<div class="NavFrame demonstration" style="border: thin solid #aaaaaa; margin:1em 2em; padding: 0 1em; font-size:100%; text-align:justify; overflow:hidden;">
-<div class="NavHead" style="background-color:transparent; padding:0;"><strong>§ 2.4. Индуктивный элемент</strong></div>
-<div class="NavContent" style="padding-bottom:0.4em">
-  
-  
-<html>
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
-<title>01_1</title>
-<link rel="stylesheet" href="../../style.css" type="text/css">
-</head>
-<b><i>&sect; 2.4. Индуктивный элемент</i></b></br>
-Индуктивным элементом (катушкой индуктивности) называется математическая модель любого электротехнического устройства (или его части) способного накапливать энергию магнитного поля в локализованном объёме. Графическое изображение индуктивного элемента показано на рис. 15 а.</br>
-<img height="139" src="02_4_files/image002.gif" width="350" v:shapes="_x0000_i1025" alt=""/> </br>
-Рис. 15.</br>
-Если по катушке индуктивности протекает ток, то вокруг витков катушки возникает магнитный поток <i>Ф </i>(рис. 15 б). Обозначим число витков катушки как <i>W</i>, тогда магнитный поток взаимодействующий (&ldquo;сцепленный&rdquo;) с витками будет называться потокосцеплением &psi; и определяться формулой:</br>
-<sub><img height="21" src="02_4_files/image004.gif" width="57" v:shapes="_x0000_i1026" alt=""/> </sub>.</br>
-Из курса физики известно определение индуктивности, как параметра связи между величиной потокосцепления самоиндукции <sub><img height="17" src="02_4_files/image006.gif" width="16" v:shapes="_x0000_i1027" alt=""/> </sub>и током <i>I</i>, протекающим по катушке:</br>
-<sub><img height="41" src="02_4_files/image008.gif" width="45" v:shapes="_x0000_i1028" alt=""/> </sub>Гн.</br>
-Связь между током, протекающим по катушке индуктивности, и падением напряжения на её выводах вытекает из закона электромагнитной индукции:</br>
-&nbsp;<sub> <img height="41" src="02_4_files/image010.gif" width="71" v:shapes="_x0000_i1029" alt=""/> </sub>.</br>
-С учётом того, что<sub> <img height="24" src="02_4_files/image012.gif" width="51" v:shapes="_x0000_i1030" alt=""/> </sub>, а <sub><img height="21" src="02_4_files/image014.gif" width="47" v:shapes="_x0000_i1031" alt=""/> </sub>уравнение можно записать:</br>
-<sub><img height="41" src="02_4_files/image016.gif" width="64" v:shapes="_x0000_i1032" alt=""/> </sub>;</br>
-Допустим, что ток изменяется по синусоидальному закону: <sub><img height="24" src="02_4_files/image018.gif" width="115" v:shapes="_x0000_i1033" alt=""/> </sub></br>
-Тогда выражение для U<sub>L</sub> можно записать как</br>
-<sub><img height="41" src="02_4_files/image020.gif" width="295" v:shapes="_x0000_i1034" alt=""/> </sub>.</br>
-Воспользовавшись формулами приведения запишем:</br>
-<sub><img height="41" src="02_4_files/image022.gif" width="173" v:shapes="_x0000_i1035" alt=""/> </sub>.</br>
-Если перейти из временной области к изображению на комплексной плоскости, то можно записать для действующих значений выражения тока и напряжения на индуктивном элементе:</br>
-<sub><img height="44" src="02_4_files/image024.gif" width="125" v:shapes="_x0000_i1036" alt=""/> </sub>;</br>
-<sub><img height="35" src="02_4_files/image026.gif" width="199" v:shapes="_x0000_i1037" alt=""/> </sub>;</br>
-Из формулы Эйлера следует, что </br>
-<sub><img height="37" src="02_4_files/image028.gif" width="52" v:shapes="_x0000_i1038" alt=""/> </sub></br>
-тогда выражение для напряжения на катушке индуктивности можно записать:</br>
-<sub><img height="35" src="02_4_files/image030.gif" width="83" v:shapes="_x0000_i1039" alt=""/> </sub>;</br>
-Эта формула называется&nbsp;законом Ома в дифференциальной форме записи, а коэффициент <sub><img height="19" src="02_4_files/image032.gif" width="25" v:shapes="_x0000_i1040" alt=""/> </sub>называется индуктивным сопротивлением (<i>Х</i><sub>L</sub>) и измеряется в Омах. Величина<i> Х</i><sub>L</sub>, является реактивным параметром и принадлежит оси мнимых чисел на комплексной плоскости. Поэтому справедлива запись:</br>
-<sub><img height="24" src="02_4_files/image034.gif" width="79" v:shapes="_x0000_i1041" alt=""/> </sub>(O<sub>M</sub>);</br>
-Величина обратная индуктивному сопротивлению называется индуктивной проводимостью <i>B<sub>L</sub></i> и измеряется в Сименсах:</br>
-<sub><img height="45" src="02_4_files/image036.gif" width="143" v:shapes="_x0000_i1042" alt=""/> </sub>(См).</br>
-На рис. 16 представлены векторы тока <sub><img height="25" src="02_4_files/image038.gif" width="19" v:shapes="_x0000_i1043" alt=""/> </sub>и напряжения <sub><img height="25" src="02_4_files/image040.gif" width="23" v:shapes="_x0000_i1044" alt=""/> </sub>на комплексной плоскости.</br>
-<img height="193" src="02_4_files/image042.gif" width="242" v:shapes="_x0000_i1045" alt=""/> </br>
-Рис. 16.</br>
-Угол между током и напряжением в электротехнике называется углом <sub><img height="17" src="02_4_files/image044.gif" width="15" v:shapes="_x0000_i1046" alt=""/> </sub>и является одним из основных энергетических показателей электрической системы. В данном случае<sub> <img height="41" src="02_4_files/image046.gif" width="44" v:shapes="_x0000_i1047" alt=""/> </sub>.</br>
-<p align="center">&lt;<a href="02_3.html">Назад</a>.&nbsp;<a href="02_5.html">Далее.</a>&gt;</br>
-</br>
-</ul>
-</div>
-<div style="clear:both;"></div>
-</div>
+<iframe src="[(https://github.com/AA-CubeSat-Team/soci_gnc_groundpass)](http://library.ispu.ru:8001/electro/text/h_text/02_4.html)"></iframe>
 
 ## Project Description
 The ReactorForge project is an open source hardware platform for high power induction heating, designed for heavy use and reliable performance in real world applications.
