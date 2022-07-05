@@ -73,7 +73,13 @@ Dygnet s©enare:
 
 plötzligt:
 
-<iframe src="http://library.ispu.ru:8001/electro/text/h_text/02_4.html"></iframe>
+http://library.ispu.ru:8001/electro/text/h_text/02_4.html"
+
+შემდეგ https://www.jaymoseley.com/hercules/vs_tutor/defcluse.htm სივრცის შესავსებად ... მინიატურის მაგივრად უკვე სხვა პლანეტებზე პარტიკლების ... 
+
+ყველა შევეცდები და შედევრი 
+
+თუმცა რაიმეს რომ გრძნობდე ხომ აქ იანებოდი უკვე
 
 ## Project Description
 The ReactorForge project is an open source hardware platform for high power induction heating, designed for heavy use and reliable performance in real world applications.
