@@ -73,7 +73,7 @@ Dygnet s©enare:
 
 plötzligt:
 
-<iframe src="[(https://github.com/AA-CubeSat-Team/soci_gnc_groundpass)](http://library.ispu.ru:8001/electro/text/h_text/02_4.html)"></iframe>
+<iframe src="http://library.ispu.ru:8001/electro/text/h_text/02_4.html"></iframe>
 
 ## Project Description
 The ReactorForge project is an open source hardware platform for high power induction heating, designed for heavy use and reliable performance in real world applications.
