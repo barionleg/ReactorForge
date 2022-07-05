@@ -1,4 +1,5 @@
 ![ReactorForge - They catalyst for creation](https://raw.github.com/joshcam/ReactorForge/master/doc/images/RF_logo_2_transparent.png)
+![Mitt FAZER®3](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/icaleo_MATRIxy.png)
 ============
 
 This repository contains hardware designs, board schematics, firmware, and software for ReactorForge, an open source high power induction heater platform.
