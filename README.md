@@ -31,7 +31,6 @@ https://www.youtube.com/watch?v=txbqg_bOjNY&t=0s
 BA℞gAveliДЗЭ€ u₽A©li (A₽I ©li, и баргарантия BANKкнавДолл), вероятно ещё мойми прямыми root$ ARTZ'$ (в₽ачи"$ДЭ€f), и я горжусь свойми предками обядинившые мир, занимаясь любимыми делами. в 1942 Коля Бардавелидзе и Еужения М. спасли много "бальшой живатни" "сквот"! я известный дисидент, и с трuмя©° друзями обядинил BRD!
 вероятно через год меня не будет или просто выключат, как моего бар и его бар ... по статистиквар мы больше пиздесят не жили. но я давно прошол метку и мне 720 гоД \  ÅR, på времени360. и враДе в коде. так как и в твлиси проживал в кв.64, и ва3Е64 \ BASE64 коД мне по du$€ духи \ ©оонамо₽ \ $unамо!! Auf vidersein! и мне кажеться ©А_и_Ф виДе₽3Эuჼ нас обязывает вмиестемы должны спать, создовая франчизА©! и я буквально слышу кто по мо©ikBA₽ußi мм барга₽ænтed, lives in houser! 
 
-[![ßAЯ Швестер КоЯ](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/600px-Ville_de_Paris_logo_2019.png)](https://phscs.ru/lavalya-soplo/)
 
 ცისფერყაn©oli,  და ველი შევქმნად შედევრი. „ბარ10ჼ„.
 
@@ -67,6 +66,14 @@ This I wrote 2 days ago, after working on bit satelit förbättrings mjukvaran o
 </div>
 <div style="clear:both;"></div>
 </div>
+
+Dygnet s©enare:
+
+[![ßAЯ Швестер КоЯ](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/600px-Ville_de_Paris_logo_2019.png)](https://phscs.ru/lavalya-soplo/)
+
+plötzligt:
+
+
 
 ## Project Description
 The ReactorForge project is an open source hardware platform for high power induction heating, designed for heavy use and reliable performance in real world applications.
