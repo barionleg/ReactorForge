@@ -73,7 +73,7 @@ Dygnet s©enare:
 
 plötzligt:
 
-http://library.ispu.ru:8001/electro/text/h_text/02_4.html"
+http://library.ispu.ru:8001/electro/text/h_text/02_4.html
 
 შემდეგ https://www.jaymoseley.com/hercules/vs_tutor/defcluse.htm სივრცის შესავსებად ... მინიატურის მაგივრად უკვე სხვა პლანეტებზე პარტიკლების ... 
 
