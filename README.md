@@ -1,5 +1,5 @@
-![ReactorForge - They catalyst for creation](https://raw.github.com/joshcam/ReactorForge/master/doc/images/RF_logo_2_transparent.png)
-![Mitt FAZER®3](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/icaleo_MATRIxy.png)
+![ReactorForge - They catalyst for creation](https://raw.github.com/joshcam/ReactorForge/master/doc/images/RF_logo_2_transparent.png)(photo: assembly of the beta ReactorCore, ReactorForge CriticalMass control board)
+![Mitt FAZER®3](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/icaleo_MATRIxy.png)(photo: assembly of the beta ReactorCore, ReactorForge CriticalMass control board)
 ============
 
 This repository contains hardware designs, board schematics, firmware, and software for ReactorForge, an open source high power induction heater platform.
@@ -33,7 +33,7 @@ BA℞gAveliДЗЭ€ u₽A©li (A₽I ©li, и баргарантия BANKкна
 вероятно через год меня не будет или просто выключат, как моего бар и его бар ... по статистиквар мы больше пиздесят не жили. но я давно прошол метку и мне 720 гоД \  ÅR, på времени360. и враДе в коде. так как и в твлиси проживал в кв.64, и ва3Е64 \ BASE64 коД мне по du$€ духи \ ©оонамо₽ \ $unамо!! Auf vidersein! и мне кажеться ©А_и_Ф виДе₽3Эuჼ нас обязывает вмиестемы должны спать, создовая франчизА©! и я буквально слышу кто по мо©ikBA₽ußi мм барга₽ænтed, lives in houser! 
 
 
-ცისფერყაn©oli,  და ველი შევქმნად შედევრი. „ბარ10ჼ„.
+ცისფერყაჼ©Œli,  და ველი შევქმნად შედევრი. „ბარ10ჼ„.
 
 This I wrote 2 days ago, after working on bit satelit förbättrings mjukvaran och tadah, but jag s©haffer dass im minijatur®
 
