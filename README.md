@@ -1,6 +1,14 @@
-[![ReactorForge - They catalyst for creation](https://raw.github.com/joshcam/ReactorForge/master/doc/images/RF_logo_2_transparent.png)]
-[![Mitt FAZER®3](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/icaleo_MATRIxy.png)]
-============
+![ReactorForge - They catalyst for creation](https://raw.github.com/joshcam/ReactorForge/master/doc/images/RF_logo_2_transparent.png)
+![Mitt FAZER®3](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/icaleo_MATRIxy.png)
+============ B@RJgAllJuS sience bÆurø℞A be©ame Quotted and ₽O$TBANK, after bA₽O$T or just ₽O$T€ in Asso©i.A.S.ion 27 вA℞hARMA©Y bARguaranted by ©urrency $ymbols, like bÆurø₽A, same BÆuRöRÄÅ; like we see ÄÅ isst zwei bahn Å gehn zum tunneln & auf Ä we see nearing lamps of train, car or other trans₽ört.
+
+on the same way like Ordinatore or even iPhone with ErsatzMetal oder Alu rahm, weiter im der 1700 zahlen finden roots, but to get so called ბროლიტიქვა бролитиква broli_TI_Qva, programmed i©ristalline = Эли_Elva_@_$ir©°ჼ
+
+My & our ©ircle$ researches, theory of Strings, теория струн, $IMЭ€ბის თეორია, აგრეთვე ნოტა, ოქტავი, ბაითი, 8biT & Beautiful 88 keybord ₽8iAჼ©, რვიანო2 = ₽iANO®'
+
+But here is so called verktyg, tool to made highh quality heavy ART! I remember & publish for society interest but not ₽ubli$© on https://barionleg.github.io/froide
+
+Frozen, фхвАД.
 
 This repository contains hardware designs, board schematics, firmware, and software for ReactorForge, an open source high power induction heater platform.
 
