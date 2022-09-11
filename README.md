@@ -88,9 +88,9 @@ http://library.ispu.ru:8001/electro/text/h_text/02_4.html
 
 ყველა შევეცდები და შედევრი 
 
-[![cartory](https://raw.githubusercontent.com/barionleg/matplotlib/main/lib/matplotlib/style/natural-earth-1_large1024px.png)](https://thomasguymer.co.uk/blog/2018/2018-01-15/)
 
-თუმცა რაიმეს რომ გრძნობდე ხომ აქ იანებოდი უკვე
+
+თუმცა რაიმეს რომ გრძნობდე ხომ აქ იQნებოდი უკვე
 
 ## Project Description
 The ReactorForge project is an open source hardware platform for high power induction heating, designed for heavy use and reliable performance in real world applications.
