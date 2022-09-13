@@ -37,6 +37,10 @@ https://www.youtube.com/watch?v=txbqg_bOjNY&t=0s
 
 [![Critical Pressure Test Run](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/%C3%96Max.png)](http://www.youtube.com/watch?v=aeWJyh0dWyg)
 
+с данным сопло
+
+[![Critical Pressure Test Run](https://github.com/barionleg/bAReactorForge/blob/master/doc/images/800px-Arc_heater_2.png)]
+
 хочу достичь bessare резултт©$!
 
 [![ReactorForge Control Board - ReactorCore](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/froide_13.png)]
