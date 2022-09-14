@@ -2,7 +2,7 @@ OBS! Terminologin inom bARTI©lE om bAREAQTORFORGE i bland är lånad från andr
 
 ![ReactorForge - They catalyst for creation](https://raw.github.com/joshcam/ReactorForge/master/doc/images/RF_logo_2_transparent.png)
 ![Mitt FAZER®3](https://raw.githubusercontent.com/barionleg/bAReactorForge/master/doc/images/icaleo_MATRIxy.png)
-============ B@RJgAllJuS sience bÆurø℞A be©ame Quotted and ₽O$TBANK, after bA₽O$T or just ₽O$T€ in Asso©i.A.S.ion 27 вA℞hARMA©Y bARguaranted by ©urrency $ymbols, like bÆurø₽A, same BÆuRöRÄÅ; like we see ÄÅ isst zwei bahn Å gehn zum tunneln & auf Ä we see nearing lamps of train, car or other trans₽ört.
+============ B@RgJÅgÄllJuS sience bÆurø℞A be©ame Quotted and ₽O$TBANK, after bA₽O$T or just ₽O$T€ in Asso©i.A.S.ion 27 вA℞hARMA©Y bARguaranted by ©urrency $ymbols, like bÆurø₽A, same BÆuRöRÄÅ; like we see ÄÅ isst zwei bahn Å gehn zum tunneln & auf Ä we see nearing lamps of train, car or other trans₽ört.
 
 on the same way like Ordinatore or even iPhone with ErsatzMetal oder Alu rahm, weiter im der 1700 zahlen finden roots, but to get so called ბროლიტიქვა бролитиква broli_TI_Qva, programmed i©ristalline = Эли_Elva_@_$ir©°ჼ
 
